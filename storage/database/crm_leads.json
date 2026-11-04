@@ -1,0 +1,76 @@
+[
+  {
+    "id": "lead_1793782087478_56ju",
+    "tenantId": "store_aura_main",
+    "name": "Test Customer",
+    "phone": "+2348012345678",
+    "stage": "lead",
+    "notes": "Auto-captured from WhatsApp incoming inquiry.",
+    "totalSpend": 0,
+    "lastActive": "Just now",
+    "assignedStaff": "AI Sales Agent",
+    "lastMessagePreview": "Hi! Can I see your catalog and prices?",
+    "tags": [
+      "whatsapp_inbound",
+      "auto_captured"
+    ],
+    "createdAt": "2026-11-04T08:48:07.478Z",
+    "updatedAt": "2026-11-04T08:48:07.478Z",
+    "source": "whatsapp_inbound"
+  },
+  {
+    "id": "lead_1793782094304_x1yj",
+    "tenantId": "store_aura_main",
+    "name": "Grace Okon",
+    "phone": "+2348149876543",
+    "stage": "lead",
+    "notes": "Imported via CSV/Bulk Contact List.",
+    "totalSpend": 0,
+    "lastActive": "Never",
+    "assignedStaff": "Sales Specialist",
+    "lastMessagePreview": "Imported Contact",
+    "tags": [
+      "imported_contact"
+    ],
+    "createdAt": "2026-11-04T08:48:14.304Z",
+    "updatedAt": "2026-11-04T08:48:14.304Z",
+    "source": "csv_import"
+  },
+  {
+    "id": "lead_1793782196248_x2l6",
+    "tenantId": "store_aura_main",
+    "name": "Emeka Adebayo",
+    "phone": "+2348031234567",
+    "stage": "lead",
+    "notes": "Imported via CSV/Bulk Contact List.",
+    "totalSpend": 0,
+    "lastActive": "Never",
+    "assignedStaff": "Sales Specialist",
+    "lastMessagePreview": "Imported Contact",
+    "tags": [
+      "imported_contact"
+    ],
+    "createdAt": "2026-11-04T08:49:56.248Z",
+    "updatedAt": "2026-11-04T08:49:56.248Z",
+    "source": "csv_import"
+  },
+  {
+    "id": "lead_1793804680873_9m4x",
+    "tenantId": "default_store",
+    "name": "Test Customer",
+    "phone": "+234 803 999 8888",
+    "stage": "lead",
+    "notes": "Auto-captured from WhatsApp incoming inquiry.",
+    "totalSpend": 0,
+    "lastActive": "Just now",
+    "assignedStaff": "AI Sales Agent",
+    "lastMessagePreview": "YES",
+    "tags": [
+      "whatsapp_inbound",
+      "auto_captured"
+    ],
+    "createdAt": "2026-11-04T15:04:40.873Z",
+    "updatedAt": "2026-11-04T15:07:49.805Z",
+    "source": "whatsapp_inbound"
+  }
+]
